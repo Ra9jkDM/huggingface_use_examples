@@ -10,3 +10,6 @@
                 {"role": "assistant", "content": '''def sum(a, b): # функция сложения 2-х чисел'''}, # Пример ответа
                 {"role": "user", "content": 'Новый вопрос'}
             ]
+
+- BERT_Train.ipynb - бообучение BERT модели для определения тональности (input - text, output - Positive, Neutral, Negative). Код сохранения и загрузки токенизатора и модели
+- Text Clustering and Topic Modeling.ipynb - кластеризация текстов с помощью нейронной сети BERTopic
