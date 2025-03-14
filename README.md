@@ -13,3 +13,5 @@
 
 - BERT_Train.ipynb - бообучение BERT модели для определения тональности (input - text, output - Positive, Neutral, Negative). Код сохранения и загрузки токенизатора и модели
 - Text Clustering and Topic Modeling.ipynb - кластеризация текстов с помощью нейронной сети BERTopic
+- pyvis.ipynb - работа с графами (data: data/facebook_combined.txt and data/employer_matching.xlsx)
+- NER_simple.ipynb - выделение сущностей(PER, LOC, ORG) из текстов и построение графов
