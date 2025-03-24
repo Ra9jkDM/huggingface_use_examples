@@ -1,6 +1,7 @@
 Примеры работы с моделями с сайта huggingface.co
 ----
 
+- huggingface.ipynb - использование разных моделей с ```https://huggingface.co/```
 - promt_engineering.ipynb - для генерации текста и ответа на вопросы используется модель ```microsoft/Phi-3-mini-4k-instruct```, для перевода ответов с ru на en и наоборот используются 2 модели: ```Helsinki-NLP/opus-mt-ru-en``` и ```Helsinki-NLP/opus-mt-en-ru```. Функция ```pred(msg, temperature=None, top_p=None)``` автоматически переводит запрос на английский язык и возвращает результат на русском языке
     - msg: 
 
