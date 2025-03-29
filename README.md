@@ -16,3 +16,5 @@
 - Text Clustering and Topic Modeling.ipynb - кластеризация текстов с помощью нейронной сети BERTopic
 - pyvis.ipynb - работа с графами (data: data/facebook_combined.txt and data/employer_matching.xlsx)
 - NER_simple.ipynb - выделение сущностей(PER, LOC, ORG) из текстов и построение графов
+- Multimodal_LLMs.ipynb - CLIP — мультимодальная модель, созданная компанией OpenAI, предназначенная для сопоставления текстовой и визуальной информации. Она обучается на основе контрастного обучения, где модель учится предсказывать, какое текстовое описание соответствует определённому изображению и наоборот
+- Advanced_Text_Generation_Techniques_and_Tools_with_assignments.ipynb - использование памяти в модели генерации текста
